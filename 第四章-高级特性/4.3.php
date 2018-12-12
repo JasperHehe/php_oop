@@ -1,4 +1,7 @@
 <?php
+/**
+	4.3抽象类
+**/
 class ShopProduct{
 	
 	function __construct()

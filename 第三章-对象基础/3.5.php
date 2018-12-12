@@ -1,4 +1,7 @@
 <?php
+/**
+	3.5继承
+**/
 // 商品基类
 class ShopProduct{
 	private $title;

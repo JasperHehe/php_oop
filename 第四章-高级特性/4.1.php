@@ -1,4 +1,7 @@
 <?php
+/**
+	4.1静态方法和属性
+**/
 class StaticExample{
 	static public $aNum = 0;
 	
