@@ -1,4 +1,7 @@
 <?php
+/**
+	4.7 final类和方法
+**/
 final class Checkout{
 
 }
