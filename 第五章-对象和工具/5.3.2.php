@@ -2,6 +2,7 @@
 /**
 	5.3.2 开始行动
 **/
+
 class Test{
 	const SUM_NUM = 100;
 	
